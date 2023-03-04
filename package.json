@@ -1,0 +1,22 @@
+{
+  "name": "shandlebars-cli",
+  "version": "0.0.1",
+  "description": "Package using handlebars for generate static to create via terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CatOnDrugs/shandlebars-cli.git"
+  },
+  "author": "CatOnDrugs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CatOnDrugs/shandlebars-cli/issues"
+  },
+  "homepage": "https://github.com/CatOnDrugs/shandlebars-cli#readme",
+  "bin": {
+    "shandlebars": "./bin/handlebars-terminal.js"
+  }
+}
