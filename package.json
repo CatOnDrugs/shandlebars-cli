@@ -2,9 +2,10 @@
   "name": "shandlebars-cli",
   "version": "0.0.1",
   "description": "Package using handlebars for generate static to create via terminal",
-  "main": "./lib/index.js",
+  "main": "./lib/index3.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node ./"
   },
   "repository": {
     "type": "git",
